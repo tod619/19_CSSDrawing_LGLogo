@@ -6,3 +6,11 @@ body {
     background-color: #262626;
     margin: 0;
 }
+
+.logo {
+    width: 500px;
+    height: 500px;
+    background-color: #e31837;
+    border-radius: 50%;
+    position: relative;
+}
